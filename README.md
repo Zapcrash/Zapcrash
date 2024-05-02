@@ -2,7 +2,8 @@
  <img src="https://i.imgur.com/i1CB88a.gif" width="600" />
  <h1 align="center">👋 Hi, Im Zapcrash from NIMRODCORE TEAM </h1>
 </div>
-<img alt="Discord" src="https://img.shields.io/discord/1003040866576908300">
+<img alt="Discord" src="https://img.shields.io/discord/1003040866576908300"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UChMfLCw-XW-Ev4IcZ1ci-Xg">
+
 
 
 <!--
