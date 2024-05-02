@@ -1,4 +1,6 @@
-https://imgur.com/aTV0CkO
+<div id="header" align="center">
+ <img src="https://i.imgur.com/aTV0CkO.gif" />
+</div>
 ### Hi there 👋
 
 <!--
